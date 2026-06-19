@@ -12,7 +12,7 @@ Ordem Dev é um curso prático de engenharia de software. Cada módulo cobre uma
 |--------|------|--------|
 | Módulo 1 | Versionamento com Git | ✅ Disponível |
 | Módulo 2 | APIs e Backend na Prática | ✅ Disponível |
-| Módulo 3 | Persistência de Dados | 🔜 Em breve |
+| Módulo 3 | Persistência e Deploy | ✅ Disponível |
 | Módulo 4 | Frontend + Integração | 🔜 Em breve |
 | Módulo 5 | Deploy de Aplicações | 🔜 Em breve |
 | Módulo 6 | Testes de Carga | 🔜 Em breve |

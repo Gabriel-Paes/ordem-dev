@@ -40,4 +40,4 @@ Acesse http://localhost:8000/docs
 
 ## Próximo módulo
 
-[Módulo 3 — Persistência de Dados](../module-3/README.md)
+[Módulo 3 — Persistência e Deploy](../module-3/README.md)
