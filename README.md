@@ -23,4 +23,4 @@ Cada módulo é independente — você pode começar por qualquer um. Se for do 
 
 ## Contato
 
-@gabrielsouzapaes — [GitHub](#) · [LinkedIn](#)
+@gabrielsouzapaes — [GitHub](https://github.com/Gabriel-Paes/) · [LinkedIn](https://www.linkedin.com/in/gabrielsouzapaes/)
