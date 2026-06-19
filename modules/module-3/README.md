@@ -2,9 +2,6 @@
 
 > "Você fechou o terminal. Cadê as reservas?"
 
-Neste módulo a API sai da sua máquina e vai para a internet.
-Aprendemos a salvar dados de forma persistente e a publicar aplicações em produção.
-
 ## O que você vai aprender
 
 - Por que dados em memória somem quando o servidor para
@@ -17,11 +14,16 @@ Aprendemos a salvar dados de forma persistente e a publicar aplicações em prod
 Conta no GitHub. Nenhuma instalação necessária além do Python.
 Se quiser acompanhar o M2 antes: [Módulo 2](../module-2/README.md)
 
+## Material
+
+- [Slides](./Ordem%20Dev%20%E2%80%94%20M%C3%B3dulo%203_%20Persist%C3%AAncia%20e%20Deploy.pdf)
+- [PDF complementar — em breve]
+
 ## Repositório de código
 
 [api-cine — branch modulo-3](https://github.com/Gabriel-Paes/api-cine/tree/modulo-3)
 
-Clone e rode em 3 comandos:
+## Como rodar
 
 ```bash
 git clone -b modulo-3 https://github.com/Gabriel-Paes/api-cine
@@ -34,4 +36,8 @@ Acesse: http://localhost:8000/docs
 
 ## Módulo anterior
 
-← [Módulo 2 — APIs e Backend na Prática](../module-2/README.md)
+[Módulo 2 — APIs e Backend na Prática](../module-2/README.md)
+
+## Próximo módulo
+
+[Módulo 4 — Frontend + Integração](../module-4/README.md)
